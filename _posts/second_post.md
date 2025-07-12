@@ -1,4 +1,6 @@
-## This is my second post
+---
+title: "Testing a second post"
+date: 2025-07-11
+---
 
-hello world
-this is a second post on my website
+this is my second post
